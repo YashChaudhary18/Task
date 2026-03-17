@@ -1,3 +1,22 @@
+/* Task 4 – ArrayList Practice
+
+Create a program to:
+● Store 5 student names in ArrayList
+
+● Print all names
+
+● Search a name entered by user
+
+Skills Checked
+
+● Collections
+
+● Loops
+
+● Logic
+
+Iske acording code chahia */ 
+    
 package task4;
 
 import java.util.ArrayList;
