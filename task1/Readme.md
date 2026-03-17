@@ -1,6 +1,6 @@
-🔢 Number Operations (Java)
+ 1. Number Operations (Java)
 
-📌 Overview
+ Overview :
 
 This is a simple Java console-based program that performs basic number operations:
 
@@ -16,7 +16,7 @@ This project is useful for beginners to understand:
 
 ---
 
-🚀 Features
+Features :
 
 - User input using "Scanner"
 - Prime number checking
@@ -26,7 +26,7 @@ This project is useful for beginners to understand:
 ---
 
 
-💡 Example Output
+ Example Output :
 
 Enter Number: 7
 Number is Prime
@@ -38,7 +38,7 @@ Number is Even
 
 ---
 
-🧠 Logic Explanation
+Logic Explanation :
 
 Prime Number Logic
 
