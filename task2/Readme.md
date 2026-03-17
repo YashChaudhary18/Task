@@ -1,6 +1,6 @@
-🔤 String Handling (Java)
+2. String Handling (Java)
 
-📌 Overview
+ Overview :
 
 This Java program performs basic string operations:
 
@@ -12,7 +12,7 @@ This project helps in understanding string manipulation and loop logic in Java.
 
 ---
 
-🚀 Features
+ Features :
 
 - Takes user input using "Scanner"
 - Reverses the string
@@ -23,7 +23,7 @@ This project helps in understanding string manipulation and loop logic in Java.
 
 
 
-💡 Example Output
+ Example Output :
 
 Enter String: Hello World
 String length is 11
@@ -32,7 +32,7 @@ Number of vowels: 3
 
 ---
 
-🧠 Logic Explanation
+ Logic Explanation :
 
 Reverse String
 
