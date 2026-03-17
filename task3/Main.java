@@ -1,3 +1,16 @@
+/* Task 3 – Student Class
+Create a class Student with:
+● id
+● name
+● marks
+Requirements:
+● Constructor
+● Getter & Setter
+● Method to display student details
+Skills Checked
+● OOP basics
+● Class and Objects */
+
 package task3;
 
 public class Main {
